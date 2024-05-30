@@ -1,10 +1,13 @@
 ---
-description: My notes to your success!
+description: >-
+  Dive into our comprehensive article to Learn Diameter protocol - an advanced
+  networking method for data transportation. Master the intricacies of this
+  crucial tech tool today.
 cover: .gitbook/assets/Telcosec.png
 coverY: 0
 ---
 
-# Diameter in 3GPP Networks
+# Introduction
 
 Fantastic training, I totally recommend any telecommunications engineer to do this training. Here I found the missing link to understand the entire ecosystem.&#x20;
 
