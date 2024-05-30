@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Diameter in 3GPP Networks](README.md)
+* [Introduction](README.md)
 
 ## The Protocol
 
