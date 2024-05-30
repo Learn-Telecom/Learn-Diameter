@@ -1,6 +1,6 @@
 ---
 description: My notes to your success!
-cover: .gitbook/assets/Diameter.svg
+cover: .gitbook/assets/Telcosec.png
 coverY: 0
 ---
 

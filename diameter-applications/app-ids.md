@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Telcosec.png
+coverY: 0
+---
+
 # App IDs
 
 {% embed url="https://portal.etsi.org/pnns/Protocol-Specification-Allocation/diameterapplicationids" %}
